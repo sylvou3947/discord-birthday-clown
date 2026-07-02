@@ -15,6 +15,7 @@ def get_birthdays():
 
     Returns:
         birthdays: array of birthdays
+        date: date object
     """
     response = requests.get(calendar_url)
     calendar = Calendar.from_ical(response.text)
