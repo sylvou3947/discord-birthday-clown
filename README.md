@@ -5,4 +5,4 @@ A silly Discord webhook to celebrate my friend's birthday on a server
 * `fetcher.py` is a util code to fetch birthday from an iCal URL
 * `wishes.py` is another util for wish variations
 
-This code uses [cron-job.org](cron-job.org) to execute through GitHub Actions.
+This code uses [cron-job.org](https://cron-job.org) to execute through GitHub Actions.
